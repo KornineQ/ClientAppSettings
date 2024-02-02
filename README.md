@@ -1,6 +1,6 @@
 -----
 
-### <p align="center">ClientAppSettings</p>
+### <p align="center">ClientAppSettings From BloxStrap for MacOS users</p>
 <p align= "center">
   <img src="https://img.shields.io/github/last-commit/KornineQ/ClientAppSettings">
   <img src="https://img.shields.io/github/license/KornineQ/ClientAppSettings">
